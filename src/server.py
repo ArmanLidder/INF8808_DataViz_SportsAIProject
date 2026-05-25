@@ -16,10 +16,10 @@ def create_app():
     from app import app
     return app.server
 
+server = create_app()
 
 if __name__ == "__main__":
     start_time = time.time()  # Record the start time
-    server = create_app()
     end_time = time.time()  # Record the end time
     elapsed_time = end_time - start_time  # Calculate the elapsed time
     print(f"Time taken to create and run the app: {elapsed_time:.2f} seconds")
