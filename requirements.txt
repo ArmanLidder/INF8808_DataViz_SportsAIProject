@@ -51,4 +51,5 @@ werkzeug==2.2.2
     # via flask
 zipp==3.10.0
     # via importlib-metadata
-dash-tools
+setuptools
+gunicorn
