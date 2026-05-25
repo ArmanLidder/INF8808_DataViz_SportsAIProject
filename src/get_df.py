@@ -1,6 +1,7 @@
+import os
 import pandas as pd
 
-def get_df(sheet_name: str)->pd.DataFrame:
+def get_df(sheet_name: str) -> pd.DataFrame:
     '''
         Load the wanted csv file
 
@@ -10,7 +11,12 @@ def get_df(sheet_name: str)->pd.DataFrame:
         Returns:
             The wanted dataframe
     '''
-    data = pd.read_csv(f"./assets/data/EURO_2020_DATA_{sheet_name}.csv")
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    file_path = os.path.join(current_dir, 'assets', 'data', f'EURO_2020_DATA_{sheet_name}.csv')
+    
+    data = pd.read_csv(file_path)
+    
     if sheet_name == "Players_stats":
         data["FullName"] = data["PlayerName"] + " " + data["PlayerSurname"]
         data.drop(["PlayerName", "PlayerSurname"], axis=1, inplace=True)
@@ -22,7 +28,7 @@ def get_df(sheet_name: str)->pd.DataFrame:
     else:
         return data
 
-def load_data()->pd.DataFrame:
+def load_data() -> pd.DataFrame:
     '''
         Load the csv files
 
