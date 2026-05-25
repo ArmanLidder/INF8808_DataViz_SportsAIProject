@@ -1,8 +1,13 @@
+import os
+import sys
 import dash
 from dash import html
 from dash import dcc
 from dash import Input, Output
 import plotly.io as pio
+
+# Force Python to evaluate the current src directory for all subfolder modules
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from get_df import load_data
 from Noe.preprocess import preprocess as noe_preprocess
@@ -33,7 +38,6 @@ bubble_data = preprocess_data(match_infos, player_stats, line_ups)
 df_metrics, df_foot = abdel_preprocess(player_stats, line_ups)
 df_amadeus = amadeus_preprocess(player_stats, line_ups)
 df_ibrahima = ibrahima_preprocess(player_stats)
-
 
 app.layout = html.Div([
     html.Div(className='section', id='intro', children=[
@@ -288,7 +292,7 @@ app.layout = html.Div([
      Output('scatter_bar_container','style')],
     Input('type-dropdown', 'value')
 )
-def update_graph(selected_type):
+def update_match_overview_graph(selected_type):
     if selected_type == 'scatter':
         return create_scatter(data), {'width': '700px', 'height': '600px'}
     if selected_type == 'horizontal_bar':
@@ -319,7 +323,7 @@ def update_radar_chart(first_team, second_team):
      Input('player-dropdown', 'value'),
      Input('stat-dropdown', 'value')]
 )
-def update_figure(selected_country, selected_player, selected_stat):
+def update_bubble_figure(selected_country, selected_player, selected_stat):
     filtered_df = bubble_data[(bubble_data['Country'] == selected_country) &
                               (bubble_data['FullName'] == selected_player) &
                               (bubble_data['StatsName'] == selected_stat)]
@@ -343,36 +347,36 @@ def update_player_dropdown(selected_country):
         return [{'label': player, 'value': player} for player in players]
     return []
 
-# Callback for Performance Metrics
+# Callback for Performance Metrics (Renamed unique function name)
 @app.callback(
     Output('bar1', 'figure'),
     Input('country-dropdown2', 'value')
 )
-def update_graph(selected_country):
+def update_performance_metrics_graph(selected_country):
     return create_bars(
         df_metrics, 
         selected_country, 
         f'The values of Recovered balls, Distance covered (km), Tackles won, and Fouls committed by player positions for {selected_country}'
     )
 
-# Callback for Foot Analysis
+# Callback for Foot Analysis (Renamed unique function name)
 @app.callback(
     Output('bar2', 'figure'),
     Input('country-dropdown3', 'value')
 )
-def update_graph(selected_country):
+def update_foot_analysis_graph(selected_country):
     return create_bars(
         df_foot, 
         selected_country, 
         f'Number of Goals Scored by Left and Right Foot by Player Position for {selected_country}'
     )
 
-# Callback for Player Stats by Role
+# Callback for Player Stats by Role (Renamed unique function name)
 @app.callback(
     Output('bar3', 'figure'),
     Input('plot-selector', 'value')
 )
-def update_graph(selected_plot):
+def update_role_stats_graph(selected_plot):
     return draw(selected_plot,df_amadeus)
 
 server = app.server
