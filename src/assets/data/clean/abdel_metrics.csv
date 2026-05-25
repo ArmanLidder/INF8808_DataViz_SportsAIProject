@@ -1,0 +1,289 @@
+Country,Role,StatsName,Value
+Austria,defenders,Distance covered (Km),190.35
+Austria,defenders,Fouls committed,18.0
+Austria,defenders,Recovered balls,117.0
+Austria,defenders,Tackles won,22.0
+Austria,forwards,Distance covered (Km),49.6
+Austria,forwards,Fouls committed,7.0
+Austria,forwards,Recovered balls,6.0
+Austria,forwards,Tackles won,0.0
+Austria,midfielders,Distance covered (Km),210.65
+Austria,midfielders,Fouls committed,30.0
+Austria,midfielders,Recovered balls,83.0
+Austria,midfielders,Tackles won,13.0
+Belgium,defenders,Distance covered (Km),187.87
+Belgium,defenders,Fouls committed,13.0
+Belgium,defenders,Recovered balls,113.0
+Belgium,defenders,Tackles won,8.0
+Belgium,forwards,Distance covered (Km),92.28999999999999
+Belgium,forwards,Fouls committed,17.0
+Belgium,forwards,Recovered balls,16.0
+Belgium,forwards,Tackles won,4.0
+Belgium,midfielders,Distance covered (Km),237.45
+Belgium,midfielders,Fouls committed,33.0
+Belgium,midfielders,Recovered balls,68.0
+Belgium,midfielders,Tackles won,10.0
+Croatia,defenders,Distance covered (Km),149.22
+Croatia,defenders,Fouls committed,20.0
+Croatia,defenders,Recovered balls,91.0
+Croatia,defenders,Tackles won,8.0
+Croatia,forwards,Distance covered (Km),86.63
+Croatia,forwards,Fouls committed,15.0
+Croatia,forwards,Recovered balls,11.0
+Croatia,forwards,Tackles won,1.0
+Croatia,midfielders,Distance covered (Km),181.78
+Croatia,midfielders,Fouls committed,18.0
+Croatia,midfielders,Recovered balls,51.0
+Croatia,midfielders,Tackles won,10.0
+Czech Republic,defenders,Distance covered (Km),232.98
+Czech Republic,defenders,Fouls committed,24.0
+Czech Republic,defenders,Recovered balls,136.0
+Czech Republic,defenders,Tackles won,12.0
+Czech Republic,forwards,Distance covered (Km),71.24
+Czech Republic,forwards,Fouls committed,7.0
+Czech Republic,forwards,Recovered balls,11.0
+Czech Republic,forwards,Tackles won,0.0
+Czech Republic,midfielders,Distance covered (Km),242.91
+Czech Republic,midfielders,Fouls committed,20.0
+Czech Republic,midfielders,Recovered balls,74.0
+Czech Republic,midfielders,Tackles won,6.0
+Denmark,defenders,Distance covered (Km),257.62
+Denmark,defenders,Fouls committed,24.0
+Denmark,defenders,Recovered balls,153.0
+Denmark,defenders,Tackles won,16.0
+Denmark,forwards,Distance covered (Km),183.25
+Denmark,forwards,Fouls committed,25.0
+Denmark,forwards,Recovered balls,27.0
+Denmark,forwards,Tackles won,4.0
+Denmark,midfielders,Distance covered (Km),198.38
+Denmark,midfielders,Fouls committed,26.0
+Denmark,midfielders,Recovered balls,86.0
+Denmark,midfielders,Tackles won,10.0
+England,defenders,Distance covered (Km),303.29
+England,defenders,Fouls committed,20.0
+England,defenders,Recovered balls,157.0
+England,defenders,Tackles won,14.0
+England,forwards,Distance covered (Km),156.17000000000002
+England,forwards,Fouls committed,14.0
+England,forwards,Recovered balls,18.0
+England,forwards,Tackles won,2.0
+England,midfielders,Distance covered (Km),309.52
+England,midfielders,Fouls committed,37.0
+England,midfielders,Recovered balls,90.0
+England,midfielders,Tackles won,21.0
+Finland,defenders,Distance covered (Km),109.82000000000001
+Finland,defenders,Fouls committed,10.0
+Finland,defenders,Recovered balls,29.0
+Finland,defenders,Tackles won,6.0
+Finland,forwards,Distance covered (Km),58.09
+Finland,forwards,Fouls committed,9.0
+Finland,forwards,Recovered balls,2.0
+Finland,forwards,Tackles won,1.0
+Finland,midfielders,Distance covered (Km),135.2
+Finland,midfielders,Fouls committed,11.0
+Finland,midfielders,Recovered balls,47.0
+Finland,midfielders,Tackles won,4.0
+France,defenders,Distance covered (Km),152.47
+France,defenders,Fouls committed,20.0
+France,defenders,Recovered balls,78.0
+France,defenders,Tackles won,7.0
+France,forwards,Distance covered (Km),121.53999999999999
+France,forwards,Fouls committed,6.0
+France,forwards,Recovered balls,20.0
+France,forwards,Tackles won,4.0
+France,midfielders,Distance covered (Km),148.87
+France,midfielders,Fouls committed,24.0
+France,midfielders,Recovered balls,62.0
+France,midfielders,Tackles won,5.0
+Germany,defenders,Distance covered (Km),191.97
+Germany,defenders,Fouls committed,13.0
+Germany,defenders,Recovered balls,89.0
+Germany,defenders,Tackles won,15.0
+Germany,forwards,Distance covered (Km),88.19
+Germany,forwards,Fouls committed,12.0
+Germany,forwards,Recovered balls,15.0
+Germany,forwards,Tackles won,7.0
+Germany,midfielders,Distance covered (Km),132.11
+Germany,midfielders,Fouls committed,17.0
+Germany,midfielders,Recovered balls,51.0
+Germany,midfielders,Tackles won,12.0
+Hungary,defenders,Distance covered (Km),148.75
+Hungary,defenders,Fouls committed,20.0
+Hungary,defenders,Recovered balls,80.0
+Hungary,defenders,Tackles won,14.0
+Hungary,forwards,Distance covered (Km),64.7
+Hungary,forwards,Fouls committed,10.0
+Hungary,forwards,Recovered balls,14.0
+Hungary,forwards,Tackles won,4.0
+Hungary,midfielders,Distance covered (Km),99.9
+Hungary,midfielders,Fouls committed,7.0
+Hungary,midfielders,Recovered balls,53.0
+Hungary,midfielders,Tackles won,8.0
+Italy,defenders,Distance covered (Km),315.22
+Italy,defenders,Fouls committed,35.0
+Italy,defenders,Recovered balls,167.0
+Italy,defenders,Tackles won,6.0
+Italy,forwards,Distance covered (Km),185.56
+Italy,forwards,Fouls committed,17.0
+Italy,forwards,Recovered balls,17.0
+Italy,forwards,Tackles won,3.0
+Italy,midfielders,Distance covered (Km),339.83
+Italy,midfielders,Fouls committed,41.0
+Italy,midfielders,Recovered balls,110.0
+Italy,midfielders,Tackles won,20.0
+Netherlands,defenders,Distance covered (Km),167.02
+Netherlands,defenders,Fouls committed,16.0
+Netherlands,defenders,Recovered balls,108.0
+Netherlands,defenders,Tackles won,9.0
+Netherlands,forwards,Distance covered (Km),82.64
+Netherlands,forwards,Fouls committed,13.0
+Netherlands,forwards,Recovered balls,14.0
+Netherlands,forwards,Tackles won,3.0
+Netherlands,midfielders,Distance covered (Km),139.95
+Netherlands,midfielders,Fouls committed,11.0
+Netherlands,midfielders,Recovered balls,79.0
+Netherlands,midfielders,Tackles won,8.0
+North Macedonia,defenders,Distance covered (Km),89.34
+North Macedonia,defenders,Fouls committed,12.0
+North Macedonia,defenders,Recovered balls,65.0
+North Macedonia,defenders,Tackles won,7.0
+North Macedonia,forwards,Distance covered (Km),60.27
+North Macedonia,forwards,Fouls committed,10.0
+North Macedonia,forwards,Recovered balls,4.0
+North Macedonia,forwards,Tackles won,0.0
+North Macedonia,midfielders,Distance covered (Km),156.95
+North Macedonia,midfielders,Fouls committed,11.0
+North Macedonia,midfielders,Recovered balls,60.0
+North Macedonia,midfielders,Tackles won,6.0
+Poland,defenders,Distance covered (Km),109.28
+Poland,defenders,Fouls committed,15.0
+Poland,defenders,Recovered balls,72.0
+Poland,defenders,Tackles won,7.0
+Poland,forwards,Distance covered (Km),53.71
+Poland,forwards,Fouls committed,6.0
+Poland,forwards,Recovered balls,5.0
+Poland,forwards,Tackles won,3.0
+Poland,midfielders,Distance covered (Km),144.44
+Poland,midfielders,Fouls committed,25.0
+Poland,midfielders,Recovered balls,50.0
+Poland,midfielders,Tackles won,6.0
+Portugal,defenders,Distance covered (Km),154.26
+Portugal,defenders,Fouls committed,12.0
+Portugal,defenders,Recovered balls,91.0
+Portugal,defenders,Tackles won,12.0
+Portugal,forwards,Distance covered (Km),88.13
+Portugal,forwards,Fouls committed,5.0
+Portugal,forwards,Recovered balls,11.0
+Portugal,forwards,Tackles won,2.0
+Portugal,midfielders,Distance covered (Km),158.41
+Portugal,midfielders,Fouls committed,21.0
+Portugal,midfielders,Recovered balls,61.0
+Portugal,midfielders,Tackles won,9.0
+Russia,defenders,Distance covered (Km),114.19
+Russia,defenders,Fouls committed,8.0
+Russia,defenders,Recovered balls,47.0
+Russia,defenders,Tackles won,6.0
+Russia,forwards,Distance covered (Km),33.1
+Russia,forwards,Fouls committed,9.0
+Russia,forwards,Recovered balls,2.0
+Russia,forwards,Tackles won,0.0
+Russia,midfielders,Distance covered (Km),174.93
+Russia,midfielders,Fouls committed,21.0
+Russia,midfielders,Recovered balls,47.0
+Russia,midfielders,Tackles won,10.0
+Scotland,defenders,Distance covered (Km),123.95
+Scotland,defenders,Fouls committed,11.0
+Scotland,defenders,Recovered balls,63.0
+Scotland,defenders,Tackles won,4.0
+Scotland,forwards,Distance covered (Km),52.38
+Scotland,forwards,Fouls committed,8.0
+Scotland,forwards,Recovered balls,5.0
+Scotland,forwards,Tackles won,0.0
+Scotland,midfielders,Distance covered (Km),131.88
+Scotland,midfielders,Fouls committed,9.0
+Scotland,midfielders,Recovered balls,52.0
+Scotland,midfielders,Tackles won,5.0
+Slovakia,defenders,Distance covered (Km),116.01
+Slovakia,defenders,Fouls committed,12.0
+Slovakia,defenders,Recovered balls,59.0
+Slovakia,defenders,Tackles won,6.0
+Slovakia,forwards,Distance covered (Km),32.71
+Slovakia,forwards,Fouls committed,0.0
+Slovakia,forwards,Recovered balls,2.0
+Slovakia,forwards,Tackles won,1.0
+Slovakia,midfielders,Distance covered (Km),155.02
+Slovakia,midfielders,Fouls committed,21.0
+Slovakia,midfielders,Recovered balls,43.0
+Slovakia,midfielders,Tackles won,8.0
+Spain,defenders,Distance covered (Km),247.32
+Spain,defenders,Fouls committed,24.0
+Spain,defenders,Recovered balls,134.0
+Spain,defenders,Tackles won,8.0
+Spain,forwards,Distance covered (Km),182.03
+Spain,forwards,Fouls committed,13.0
+Spain,forwards,Recovered balls,37.0
+Spain,forwards,Tackles won,0.0
+Spain,midfielders,Distance covered (Km),298.88
+Spain,midfielders,Fouls committed,35.0
+Spain,midfielders,Recovered balls,94.0
+Spain,midfielders,Tackles won,14.0
+Sweden,defenders,Distance covered (Km),176.6
+Sweden,defenders,Fouls committed,11.0
+Sweden,defenders,Recovered balls,82.0
+Sweden,defenders,Tackles won,2.0
+Sweden,forwards,Distance covered (Km),55.71
+Sweden,forwards,Fouls committed,10.0
+Sweden,forwards,Recovered balls,9.0
+Sweden,forwards,Tackles won,0.0
+Sweden,midfielders,Distance covered (Km),223.55
+Sweden,midfielders,Fouls committed,30.0
+Sweden,midfielders,Recovered balls,63.0
+Sweden,midfielders,Tackles won,14.0
+Switzerland,defenders,Distance covered (Km),190.83
+Switzerland,defenders,Fouls committed,15.0
+Switzerland,defenders,Recovered balls,116.0
+Switzerland,defenders,Tackles won,20.0
+Switzerland,forwards,Distance covered (Km),100.45
+Switzerland,forwards,Fouls committed,16.0
+Switzerland,forwards,Recovered balls,10.0
+Switzerland,forwards,Tackles won,1.0
+Switzerland,midfielders,Distance covered (Km),263.85
+Switzerland,midfielders,Fouls committed,32.0
+Switzerland,midfielders,Recovered balls,85.0
+Switzerland,midfielders,Tackles won,14.0
+Turkey,defenders,Distance covered (Km),88.25
+Turkey,defenders,Fouls committed,14.0
+Turkey,defenders,Recovered balls,45.0
+Turkey,defenders,Tackles won,4.0
+Turkey,forwards,Distance covered (Km),51.15
+Turkey,forwards,Fouls committed,6.0
+Turkey,forwards,Recovered balls,6.0
+Turkey,forwards,Tackles won,2.0
+Turkey,midfielders,Distance covered (Km),61.839999999999996
+Turkey,midfielders,Fouls committed,10.0
+Turkey,midfielders,Recovered balls,25.0
+Turkey,midfielders,Tackles won,4.0
+Ukraine,defenders,Distance covered (Km),216.17
+Ukraine,defenders,Fouls committed,9.0
+Ukraine,defenders,Recovered balls,122.0
+Ukraine,defenders,Tackles won,11.0
+Ukraine,forwards,Distance covered (Km),105.73
+Ukraine,forwards,Fouls committed,13.0
+Ukraine,forwards,Recovered balls,8.0
+Ukraine,forwards,Tackles won,2.0
+Ukraine,midfielders,Distance covered (Km),205.07
+Ukraine,midfielders,Fouls committed,22.0
+Ukraine,midfielders,Recovered balls,83.0
+Ukraine,midfielders,Tackles won,18.0
+Wales,defenders,Distance covered (Km),27.34
+Wales,defenders,Fouls committed,4.0
+Wales,defenders,Recovered balls,11.0
+Wales,defenders,Tackles won,2.0
+Wales,forwards,Distance covered (Km),20.490000000000002
+Wales,forwards,Fouls committed,4.0
+Wales,forwards,Recovered balls,2.0
+Wales,forwards,Tackles won,0.0
+Wales,midfielders,Distance covered (Km),29.6
+Wales,midfielders,Fouls committed,4.0
+Wales,midfielders,Recovered balls,8.0
+Wales,midfielders,Tackles won,2.0

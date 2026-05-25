@@ -1,5 +1,6 @@
 import os
 import sys
+import pandas as pd
 import dash
 from dash import html
 from dash import dcc
@@ -9,18 +10,12 @@ import plotly.io as pio
 # Force Python to evaluate the current src directory for all subfolder modules
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from get_df import load_data
-from Noe.preprocess import preprocess as noe_preprocess
+# Only import the visualization builders and the template setup
 from Noe.make_viz import create_scatter, create_stacked_bars
-from Arman.preprocess import preprocess as arman_preprocess
 from Arman.make_viz import create_radar_chart, add_team_to_radar_chart, create_empty_radar_chart
-from khedrO.preprocess import preprocess_data
 from khedrO.make_viz import create_figure
-from Abdel.preprocess import preprocess as abdel_preprocess
 from Abdel.make_viz import create_bars
-from Amadeus.preprocess import preprocess as amadeus_preprocess
 from Amadeus.make_viz import draw
-from Ibrahima.preprocess import preprocess as ibrahima_preprocess
 from Ibrahima.make_viz import create_bar_chart
 from template import create_template
 
@@ -30,14 +25,18 @@ app.title = 'SportsAI Project'
 create_template()
 pio.templates.default = 'simple_white+mytemplate'
 
-# Preprocess data
-match_infos, match_stats, player_stats, line_ups = load_data()
-data = noe_preprocess(match_infos, match_stats)
-radar_data = arman_preprocess(match_stats)
-bubble_data = preprocess_data(match_infos, player_stats, line_ups)
-df_metrics, df_foot = abdel_preprocess(player_stats, line_ups)
-df_amadeus = amadeus_preprocess(player_stats, line_ups)
-df_ibrahima = ibrahima_preprocess(player_stats)
+# Define the directory where your clean files sit
+current_dir = os.path.dirname(os.path.abspath(__file__))
+clean_dir = os.path.join(current_dir, 'assets', 'data', 'clean')
+
+# Load the pre-baked data instantly (Replaced the old preprocessing block)
+data = pd.read_csv(os.path.join(clean_dir, 'noe_data.csv'))
+radar_data = pd.read_csv(os.path.join(clean_dir, 'arman_radar.csv'))
+bubble_data = pd.read_csv(os.path.join(clean_dir, 'khedro_bubble.csv'))
+df_metrics = pd.read_csv(os.path.join(clean_dir, 'abdel_metrics.csv'))
+df_foot = pd.read_csv(os.path.join(clean_dir, 'abdel_foot.csv'))
+df_amadeus = pd.read_csv(os.path.join(clean_dir, 'amadeus_data.csv'))
+df_ibrahima = pd.read_csv(os.path.join(clean_dir, 'ibrahima_tackles.csv'))
 
 app.layout = html.Div([
     html.Div(className='section', id='intro', children=[

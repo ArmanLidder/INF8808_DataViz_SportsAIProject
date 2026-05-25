@@ -1,0 +1,145 @@
+Country,Role,StatsName,Value
+Austria,defenders,Goals scored by left foot,0.0
+Austria,defenders,Goals scored by right foot,1.0
+Austria,forwards,Goals scored by left foot,0.0
+Austria,forwards,Goals scored by right foot,2.0
+Austria,midfielders,Goals scored by left foot,0.0
+Austria,midfielders,Goals scored by right foot,1.0
+Belgium,defenders,Goals scored by left foot,1.0
+Belgium,defenders,Goals scored by right foot,0.0
+Belgium,forwards,Goals scored by left foot,2.0
+Belgium,forwards,Goals scored by right foot,2.0
+Belgium,midfielders,Goals scored by left foot,2.0
+Belgium,midfielders,Goals scored by right foot,1.0
+Croatia,defenders,Goals scored by left foot,0.0
+Croatia,defenders,Goals scored by right foot,0.0
+Croatia,forwards,Goals scored by left foot,0.0
+Croatia,forwards,Goals scored by right foot,0.0
+Croatia,midfielders,Goals scored by left foot,1.0
+Croatia,midfielders,Goals scored by right foot,3.0
+Czech Republic,defenders,Goals scored by left foot,0.0
+Czech Republic,defenders,Goals scored by right foot,0.0
+Czech Republic,forwards,Goals scored by left foot,3.0
+Czech Republic,forwards,Goals scored by right foot,1.0
+Czech Republic,midfielders,Goals scored by left foot,0.0
+Czech Republic,midfielders,Goals scored by right foot,0.0
+Denmark,defenders,Goals scored by left foot,1.0
+Denmark,defenders,Goals scored by right foot,2.0
+Denmark,forwards,Goals scored by left foot,2.0
+Denmark,forwards,Goals scored by right foot,6.0
+Denmark,midfielders,Goals scored by left foot,0.0
+Denmark,midfielders,Goals scored by right foot,0.0
+England,defenders,Goals scored by left foot,1.0
+England,defenders,Goals scored by right foot,0.0
+England,forwards,Goals scored by left foot,0.0
+England,forwards,Goals scored by right foot,4.0
+England,midfielders,Goals scored by left foot,0.0
+England,midfielders,Goals scored by right foot,0.0
+Finland,defenders,Goals scored by left foot,0.0
+Finland,defenders,Goals scored by right foot,0.0
+Finland,forwards,Goals scored by left foot,0.0
+Finland,forwards,Goals scored by right foot,0.0
+Finland,midfielders,Goals scored by left foot,0.0
+Finland,midfielders,Goals scored by right foot,0.0
+France,defenders,Goals scored by left foot,0.0
+France,defenders,Goals scored by right foot,0.0
+France,forwards,Goals scored by left foot,2.0
+France,forwards,Goals scored by right foot,2.0
+France,midfielders,Goals scored by left foot,0.0
+France,midfielders,Goals scored by right foot,1.0
+Germany,defenders,Goals scored by left foot,0.0
+Germany,defenders,Goals scored by right foot,0.0
+Germany,forwards,Goals scored by left foot,0.0
+Germany,forwards,Goals scored by right foot,1.0
+Germany,midfielders,Goals scored by left foot,0.0
+Germany,midfielders,Goals scored by right foot,1.0
+Hungary,defenders,Goals scored by left foot,0.0
+Hungary,defenders,Goals scored by right foot,1.0
+Hungary,forwards,Goals scored by left foot,0.0
+Hungary,forwards,Goals scored by right foot,0.0
+Hungary,midfielders,Goals scored by left foot,0.0
+Hungary,midfielders,Goals scored by right foot,0.0
+Italy,defenders,Goals scored by left foot,1.0
+Italy,defenders,Goals scored by right foot,0.0
+Italy,forwards,Goals scored by left foot,0.0
+Italy,forwards,Goals scored by right foot,4.0
+Italy,midfielders,Goals scored by left foot,3.0
+Italy,midfielders,Goals scored by right foot,4.0
+Netherlands,defenders,Goals scored by left foot,0.0
+Netherlands,defenders,Goals scored by right foot,1.0
+Netherlands,forwards,Goals scored by left foot,1.0
+Netherlands,forwards,Goals scored by right foot,2.0
+Netherlands,midfielders,Goals scored by left foot,2.0
+Netherlands,midfielders,Goals scored by right foot,1.0
+North Macedonia,defenders,Goals scored by left foot,0.0
+North Macedonia,defenders,Goals scored by right foot,0.0
+North Macedonia,forwards,Goals scored by left foot,1.0
+North Macedonia,forwards,Goals scored by right foot,0.0
+North Macedonia,midfielders,Goals scored by left foot,1.0
+North Macedonia,midfielders,Goals scored by right foot,0.0
+Poland,defenders,Goals scored by left foot,0.0
+Poland,defenders,Goals scored by right foot,0.0
+Poland,forwards,Goals scored by left foot,1.0
+Poland,forwards,Goals scored by right foot,1.0
+Poland,midfielders,Goals scored by left foot,1.0
+Poland,midfielders,Goals scored by right foot,0.0
+Portugal,defenders,Goals scored by left foot,1.0
+Portugal,defenders,Goals scored by right foot,0.0
+Portugal,forwards,Goals scored by left foot,2.0
+Portugal,forwards,Goals scored by right foot,4.0
+Portugal,midfielders,Goals scored by left foot,0.0
+Portugal,midfielders,Goals scored by right foot,0.0
+Russia,defenders,Goals scored by left foot,0.0
+Russia,defenders,Goals scored by right foot,0.0
+Russia,forwards,Goals scored by left foot,0.0
+Russia,forwards,Goals scored by right foot,1.0
+Russia,midfielders,Goals scored by left foot,1.0
+Russia,midfielders,Goals scored by right foot,0.0
+Scotland,defenders,Goals scored by left foot,0.0
+Scotland,defenders,Goals scored by right foot,0.0
+Scotland,forwards,Goals scored by left foot,0.0
+Scotland,forwards,Goals scored by right foot,0.0
+Scotland,midfielders,Goals scored by left foot,0.0
+Scotland,midfielders,Goals scored by right foot,1.0
+Slovakia,defenders,Goals scored by left foot,0.0
+Slovakia,defenders,Goals scored by right foot,1.0
+Slovakia,forwards,Goals scored by left foot,0.0
+Slovakia,forwards,Goals scored by right foot,0.0
+Slovakia,midfielders,Goals scored by left foot,0.0
+Slovakia,midfielders,Goals scored by right foot,0.0
+Spain,defenders,Goals scored by left foot,0.0
+Spain,defenders,Goals scored by right foot,0.0
+Spain,forwards,Goals scored by left foot,3.0
+Spain,forwards,Goals scored by right foot,1.0
+Spain,midfielders,Goals scored by left foot,3.0
+Spain,midfielders,Goals scored by right foot,0.0
+Sweden,defenders,Goals scored by left foot,0.0
+Sweden,defenders,Goals scored by right foot,0.0
+Sweden,forwards,Goals scored by left foot,0.0
+Sweden,forwards,Goals scored by right foot,0.0
+Sweden,midfielders,Goals scored by left foot,2.0
+Sweden,midfielders,Goals scored by right foot,3.0
+Switzerland,defenders,Goals scored by left foot,0.0
+Switzerland,defenders,Goals scored by right foot,0.0
+Switzerland,forwards,Goals scored by left foot,1.0
+Switzerland,forwards,Goals scored by right foot,1.0
+Switzerland,midfielders,Goals scored by left foot,1.0
+Switzerland,midfielders,Goals scored by right foot,2.0
+Turkey,defenders,Goals scored by left foot,0.0
+Turkey,defenders,Goals scored by right foot,0.0
+Turkey,forwards,Goals scored by left foot,0.0
+Turkey,forwards,Goals scored by right foot,0.0
+Turkey,midfielders,Goals scored by left foot,1.0
+Turkey,midfielders,Goals scored by right foot,0.0
+Ukraine,defenders,Goals scored by left foot,1.0
+Ukraine,defenders,Goals scored by right foot,0.0
+Ukraine,forwards,Goals scored by left foot,1.0
+Ukraine,forwards,Goals scored by right foot,2.0
+Ukraine,midfielders,Goals scored by left foot,0.0
+Ukraine,midfielders,Goals scored by right foot,0.0
+Wales,defenders,Goals scored by left foot,0.0
+Wales,defenders,Goals scored by right foot,0.0
+Wales,forwards,Goals scored by left foot,0.0
+Wales,forwards,Goals scored by right foot,0.0
+Wales,midfielders,Goals scored by left foot,0.0
+Wales,midfielders,Goals scored by right foot,0.0
