@@ -23,4 +23,5 @@ if __name__ == "__main__":
     elapsed_time = end_time - start_time  # Calculate the elapsed time
     print(f"Time taken to create and run the app: {elapsed_time:.2f} seconds")
 
-    server.run(port="8050", debug=True)
+    port = int(os.environ.get("PORT", 8050))
+    server.run(host="0.0.0.0", port=port, debug=False)
